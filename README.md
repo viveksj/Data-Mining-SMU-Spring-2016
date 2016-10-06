@@ -1,0 +1,3 @@
+# Data-Mining-SMU-Spring-2016
+I compiled these analytics reports under the guidance of Prof. Michael Hahsler during my Masters in Computer Science program in the Spring of 2016 at Southern Methodist University, Dallas, Texas.
+This was my first attemp at analytics with real data, so I was very excited about it, but there is so much more, that I still have to achieve. Becasue it was my first attempt, I did make several mistakes.
